@@ -1,0 +1,4 @@
+﻿  Lab03_EslyAjsivinac_1308723.cpp
+C:\Users\ESLY\source\repos\Lab03_EslyAjsivinac_1308723\Lab03_EslyAjsivinac_1308723.cpp(14,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab03_EslyAjsivinac_1308723.vcxproj -> C:\Users\ESLY\source\repos\Lab03_EslyAjsivinac_1308723\x64\Debug\Lab03_EslyAjsivinac_1308723.exe
