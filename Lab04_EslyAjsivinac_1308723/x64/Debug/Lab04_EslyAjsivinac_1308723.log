@@ -1,0 +1,5 @@
+﻿  Lab04_EslyAjsivinac_1308723.cpp
+C:\Users\ESLY\source\repos\Lab04_EslyAjsivinac_1308723\Lab04_EslyAjsivinac_1308723.cpp(28,13): warning C4244: 'inicializando': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\ESLY\source\repos\Lab04_EslyAjsivinac_1308723\Lab04_EslyAjsivinac_1308723.cpp(32,12): warning C4305: 'inicializando': truncamiento de '__int64' a 'int'
+C:\Users\ESLY\source\repos\Lab04_EslyAjsivinac_1308723\Lab04_EslyAjsivinac_1308723.cpp(32,14): warning C4309: 'inicializando': truncamiento de valor constante
+  Lab04_EslyAjsivinac_1308723.vcxproj -> C:\Users\ESLY\source\repos\Lab04_EslyAjsivinac_1308723\x64\Debug\Lab04_EslyAjsivinac_1308723.exe
