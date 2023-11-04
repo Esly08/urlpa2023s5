@@ -1,0 +1,2 @@
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\x64\Debug\Lab2_EslyMerileydiAjsivinac_1308723.vcxproj.AssemblyReference.cache
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\x64\Debug\Lab2_EslyMerileydiAjsivinac_1308723.exe

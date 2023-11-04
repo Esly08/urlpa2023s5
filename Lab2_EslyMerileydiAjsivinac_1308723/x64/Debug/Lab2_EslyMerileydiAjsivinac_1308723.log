@@ -1,0 +1,15 @@
+﻿  Lab2_EslyMerileydiAjsivinac_1308723.cpp
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(41,25): error C3861: 'ConvertToBaseNChar': no se encontró el identificador
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(100,5): error C2084: la función 'int ConvertToDecimal(System::String ^,int)' ya tiene un cuerpo
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(22,5): message : vea la definición anterior de 'ConvertToDecimal'
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(115,9): error C2084: la función 'System::String ^ConvertFromDecimal(int,int)' ya tiene un cuerpo
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(36,9): message : vea la definición anterior de 'ConvertFromDecimal'
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(128,5): error C2731: 'main': no se puede sobrecargar la función
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(128,5): message : vea la declaración de 'main'
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(156,24): error C2065: 'ConvertToDecimal': identificador no declarado
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(156,22): error C2440: 'inicializando': no se puede realizar la conversión de 'int (__clrcall *)(System::String ^,int)' a 'int'
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(156,22): message : No existe un contexto en el que sea posible realizar esta conversión
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(157,22): error C2065: 'ConvertFromDecimal': identificador no declarado
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(157,20): error C2440: 'inicializando': no se puede realizar la conversión de 'System::String ^(__clrcall *)(int,int)' a 'System::String ^'
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(157,20): message : No hay un operador de conversión definida por el usuario disponible, o
+C:\Users\ESLY\source\repos\Lab2_EslyMerileydiAjsivinac_1308723\Lab2_EslyMerileydiAjsivinac_1308723.cpp(157,20): message : No existe un contexto en el que sea posible realizar esta conversión
