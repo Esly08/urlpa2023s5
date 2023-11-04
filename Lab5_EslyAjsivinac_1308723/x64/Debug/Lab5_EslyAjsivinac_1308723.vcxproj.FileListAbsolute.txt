@@ -1,0 +1,2 @@
+C:\Users\ESLY\source\repos\Lab5_EslyAjsivinac_1308723\x64\Debug\Lab5_EslyAjsivinac_1308723.vcxproj.AssemblyReference.cache
+C:\Users\ESLY\source\repos\Lab5_EslyAjsivinac_1308723\x64\Debug\Lab5_EslyAjsivinac_1308723.exe
